@@ -1,6 +1,5 @@
 
 
-**joelhernandez211-id/joelhernandez211-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hello World 👋
 
